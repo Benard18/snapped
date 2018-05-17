@@ -1,0 +1,243 @@
+#adverts {
+  background-color: rgba(0,0,0,.5);
+padding-right:0px;
+}
+
+body {
+  background-image: url("../images/Black.jpg");
+  background-repeat: no-repeat;
+ background-attachment: fixed;
+background-size: cover;
+}
+#side1 img {
+  width:200px;
+  height: 300px;
+  float: left;
+  margin-left: 0px;
+}
+#side2 img {
+  width:200px;
+  height: 300px;
+  float: left;
+  text-align: left;
+}
+#side1 {
+  padding-left: 0px;
+}
+#red {
+  text-align: center;
+}
+#thanos {
+  text-align: center;
+}
+#black {
+  background-color: black;
+  float: left;
+  margin: 0px;
+padding:0px;
+}
+#marvel img {
+  height:100px;
+  width:150px;
+  float: left;
+  margin-right: 10px;
+}
+#marvel {
+  float: left;
+  height:100px;
+  background-color: black;
+  margin-left: 70px;
+  margin-bottom: 90px;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.row a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+#rope {
+
+}
+#bar {
+  height: 300px;
+  float: left;
+  width: 1000px;
+
+
+}
+#weddy {
+  float: left;
+}
+#row1 {
+  padding-top: 20px;
+    border-top-style: solid;
+    border-spacing: inherit;
+
+}
+#re {
+  padding-right: 30px;
+
+}
+#re p {
+  font-family: 'Inconsolata', monospace;
+font-family: 'Roboto Slab', serif;
+font-family: 'PT Sans Narrow', sans-serif;
+
+}
+#stark {
+  float: right;
+
+}
+#stark img {
+  height:1000px;
+  width:400px;
+  float: right;
+}
+#all {
+  float: left;
+}
+#all img {
+  float: left;
+  height:1000px;
+  width:400px;
+}
+#title {
+  text-align: center;
+  margin-top: 20px;
+  height:1000px
+}
+.movies {
+  text-align: center;
+  background-color: red;
+}
+#tickets {
+  background-color: black;
+  border-left-style: hidden;
+    border-right-style: hidden;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    white-space: nowrap;
+}
+#black2 {
+  background-color: black;
+  text-align: center;
+
+}
+#black2 p {
+  color:grey;
+}
+ li {
+  display: none;
+}
+#exit {
+  padding-left: 200px;
+  padding-top: 100px;
+  color: white;
+  font-size: 15px;
+  font-family: 'Inconsolata', monospace;font-family: 'Roboto Slab', serif;font-family: 'Oswald', sans-serif;color:white;
+}
+#comic {
+  float: left;
+    text-align: center;
+}
+#character {
+  float: left;
+  padding-left: 40px;
+    text-align: center;
+}
+#arvel img {
+  width:80px;
+  height:30px;
+  float: left;
+
+}
+#arvel {
+  float: left;
+  padding-left:100px;
+}
+#exit a {
+  color: grey;
+}
+#copyright {
+  margin-top: 10px;
+  padding-top: 60px;
+  font-family: 'Roboto Slab', serif;
+font-family: 'PT Sans Narrow', sans-serif;
+}
+#social2 {
+  float: right;
+}
+#creators a {
+  color: grey;
+  font-family: 'Roboto Slab', serif;
+font-family: 'PT Sans Narrow', sans-serif;
+
+}
+#creators {
+  font-family: 'Roboto Slab', serif;
+font-family: 'PT Sans Narrow', sans-serif;
+
+}
+.games {
+  background-image: url(../images/avenge.jpeg);
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height:400px;
+  padding:20px;
+  color:white;
+  font-family: 'Roboto Slab', serif;
+font-family: 'PT Sans Narrow', sans-serif;
+font-size:40px;
+}
+.games img {
+  width: 200px;
+  height: 100px;
+}
+#title img {
+
+  height:350px;
+  text-align: center;
+}
+#ded {
+  padding-bottom: 40px;
+}
+#form {
+  background-image: url(../images/thanos2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment:fixed;
+  /* margin-bottom: 300px; */
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+font-family: 'PT Sans Narrow', sans-serif;
+font-size:40px;
+color: white;
+}
+#form img {
+  height:200px;
+  text-align: center;
+}
