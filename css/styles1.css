@@ -1,0 +1,74 @@
+html, body{
+  background-color:rgb(0, 0, 0);
+  background-image: url(../images1/Black.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.container {
+  text-align: center;
+  border: solid;
+  border-color: rgba(187, 46, 32, 0.72);
+  border-width: thick;
+  width: 400px;
+  margin-top: 0px;
+  margin-right: 0px;
+}
+.container-fluid{
+
+}
+.jumbotron h1 #h1 {
+  text-align: center;
+}
+
+#jn {
+  background-color: rgba(164, 37, 9, 0.77);
+  margin-left: 0px;
+  color: rgb(215, 177, 12);
+}
+#re{
+  color: rgb(178, 242, 68);
+}
+#place {
+  background-image: url(../images1/Logo.gif);
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding: 550px;
+  text-align: center;
+  margin-bottom: 0px;
+  padding-bottom: 100px;
+}
+
+#lg {
+  padding-left: 440px;
+  padding-bottom: 50px;
+}
+#dest{
+  color: rgb(20, 233, 182);
+  text-align: center;
+}
+#cap{
+  margin-left: 0px;
+  width: 400px;
+  height: 200px;
+}
+#stark{
+  width: 400px;
+  height: 200px;
+  margin-right: 0px;
+  padding-right:0px;
+}
+.col-md-6{
+  padding-left: 0px;
+}
+#sub{
+  width: 300px;
+  height: 150px;
+  background-color: rgba(164, 37, 9, 0.77);
+  font-family: 'Amatic SC', cursive;
+  color: rgb(235, 193, 43);
+
+}
+#fm{
+  background-color: rgba(239, 246, 243, 0.36);
+}
