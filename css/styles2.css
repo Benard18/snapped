@@ -35,3 +35,9 @@ background-color: black;
   padding-right: 0px;
 
 }
+#bdy{
+  background-image: url(../images/moonthrow.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
