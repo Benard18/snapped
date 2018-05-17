@@ -516,15 +516,24 @@ if (typeof jQuery === 'undefined') {
     Plugin.call($target, options)
 
     if (slideIndex) {
+<<<<<<< HEAD
       $target.data('bs.carousel').to(slideIndex)
+=======
+      $target.data('bs.el').to(slideIndex)
+>>>>>>> 5aa6453c02472c6d2a38e82f2fe67cd48fdbda3d
     }
 
     e.preventDefault()
   }
 
   $(document)
+<<<<<<< HEAD
     .on('click.bs.carousel.data-api', '[data-slide]', clickHandler)
     .on('click.bs.carousel.data-api', '[data-slide-to]', clickHandler)
+=======
+    .on('click.bs.el.data-api', '[data-slide]', clickHandler)
+    .on('click.bs.el.data-api', '[data-slide-to]', clickHandler)
+>>>>>>> 5aa6453c02472c6d2a38e82f2fe67cd48fdbda3d
 
   $(window).on('load', function () {
     $('[data-ride="carousel"]').each(function () {

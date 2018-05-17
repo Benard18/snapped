@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5aa6453c02472c6d2a38e82f2fe67cd48fdbda3d
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
  * Copyright 2011-2016 Twitter, Inc.
@@ -1587,9 +1591,12 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   background-color: black;
 >>>>>>> 99528756d5988ae7879e8db02b64a61e9fd17387
+=======
+>>>>>>> 5aa6453c02472c6d2a38e82f2fe67cd48fdbda3d
 }
 @media (min-width: 768px) {
   .container {
@@ -4966,12 +4973,16 @@ a.badge:focus {
   color: inherit;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   background-color: #eee;
 >>>>>>> daf3ea5ddba785a4f4549bbfc0d59d8592d0a893
 =======
   background-color: #eee;
 >>>>>>> 99528756d5988ae7879e8db02b64a61e9fd17387
+=======
+  background-color: #eee;
+>>>>>>> 5aa6453c02472c6d2a38e82f2fe67cd48fdbda3d
 }
 .jumbotron h1,
 .jumbotron .h1 {
@@ -6256,9 +6267,15 @@ button.close {
 .carousel-inner > .item {
   position: relative;
   display: none;
+<<<<<<< HEAD
   -webkit-transition: .6s ease-in-out left;
        -o-transition: .6s ease-in-out left;
           transition: .6s ease-in-out left;
+=======
+  -webkit-transition: .1s ease-in-out left;
+       -o-transition: .1s ease-in-out left;
+          transition: .1s ease-in-out left;
+>>>>>>> 5aa6453c02472c6d2a38e82f2fe67cd48fdbda3d
 }
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
@@ -6266,9 +6283,15 @@ button.close {
 }
 @media all and (transform-3d), (-webkit-transform-3d) {
   .carousel-inner > .item {
+<<<<<<< HEAD
     -webkit-transition: -webkit-transform .6s ease-in-out;
          -o-transition:      -o-transform .6s ease-in-out;
             transition:         transform .6s ease-in-out;
+=======
+    -webkit-transition: -webkit-transform .1s ease-in-out;
+         -o-transition:      -o-transform .1s ease-in-out;
+            transition:         transform .1s ease-in-out;
+>>>>>>> 5aa6453c02472c6d2a38e82f2fe67cd48fdbda3d
 
     -webkit-backface-visibility: hidden;
             backface-visibility: hidden;
