@@ -8,6 +8,7 @@ body {
   background-repeat: no-repeat;
  background-attachment: fixed;
 background-size: cover;
+
 }
 #side1 img {
   width:200px;
@@ -230,7 +231,7 @@ font-size:40px;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment:fixed;
-  /* margin-bottom: 300px; */
+  margin-bottom: 300px;
   text-align: center;
   font-family: 'Roboto Slab', serif;
 font-family: 'PT Sans Narrow', sans-serif;

@@ -1,9 +1,6 @@
 .container-fluid{
-background-color: black;
-padding:500px;
-padding-left: 100px;
-padding-top: 50px;
-text-align: center;
+/* background-color: black; */
+
 
 }
 .marvel-title{
@@ -33,11 +30,25 @@ background-color: black;
 }
 #dead{
   padding-right: 0px;
+  padding-left: 400px;
+  margin-left: 90px;
+  text-align: center;
+  float: right;
 
 }
 #bdy{
-  background-image: url(../images/moonthrow.jpg);
+  background-image: url(../img2/moonthrow.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+  text-align: center;
+  padding-top: 300px;
+
+
+}
+#death h1 {
+  margin-left: 300px;
+}
+#qt {
+  margin-right: 190px;
 }
